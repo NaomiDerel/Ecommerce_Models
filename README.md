@@ -1,8 +1,8 @@
-# E-commerce Models
+# E-Commerce Models
 
 Multiple projects as part of an 'Electronic Commerce' course, covering topics such as network dynamics, MABs and recommendation systems.
 
-The credit for the project descriptions (originally in Hebrew) and template code goes to the staff of the 'Electronic Commerce' course at Technion. The solutions are our own work.
+The credit for the project descriptions (originally in Hebrew) and template code goes to the staff of the 'Electronic Commerce' course at Technion, spring semester of 2023. The solutions are our own work.
 
 ## 1. [Network Dynamics](1_Influence_in_Networks)
 
